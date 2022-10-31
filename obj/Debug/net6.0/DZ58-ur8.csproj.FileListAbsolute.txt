@@ -1,0 +1,15 @@
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\bin\Debug\net6.0\DZ58-ur8.exe
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\bin\Debug\net6.0\DZ58-ur8.deps.json
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\bin\Debug\net6.0\DZ58-ur8.runtimeconfig.json
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\bin\Debug\net6.0\DZ58-ur8.dll
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\bin\Debug\net6.0\DZ58-ur8.pdb
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.csproj.AssemblyReference.cache
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.AssemblyInfoInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.AssemblyInfo.cs
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.csproj.CoreCompileInputs.cache
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.dll
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\refint\DZ58-ur8.dll
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.pdb
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\DZ58-ur8.genruntimeconfig.cache
+C:\Users\Yran\Seminar3_S#\DZ58-ur8\obj\Debug\net6.0\ref\DZ58-ur8.dll
